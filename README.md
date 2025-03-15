@@ -10,7 +10,7 @@ Installed libraries:
   + matplotlib
   + cv2
   + sklearn  
-Base model: VGG16 + ADAM
+Base model: VGG16 + ADAM  
 Performance:
 
 ![Screenshot 2025-03-15 145025](https://github.com/user-attachments/assets/55e8ecdb-66cb-4316-8d22-176d17c21383)  
