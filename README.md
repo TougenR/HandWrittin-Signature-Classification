@@ -1,3 +1,6 @@
+Link to dataset: https://www.kaggle.com/datasets/divyanshrai/handwritten-signatures/data  
+Abstract: Classify real or fake signature.  
+ 
 Currently running on Python 3.12 and CUDA 12.6.  
 Installed libraries:
   + torch
